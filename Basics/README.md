@@ -3,7 +3,7 @@
 ## Overview
 This level focuses on building a strong foundation in C programming. It covers basic programming concepts, input/output operations, operators, conditional statements, and loops.
 
-These fundamentals are essential for learning Embedded C and microcontroller programming.
+These fundamentals are essential for learning  C programming.
 
 ## Topics Covered
 - C Program Structure
@@ -56,7 +56,7 @@ Basics/
 - Maintain clean and readable code.
 
 ## Objective
-Develop strong C programming fundamentals required for Embedded C, ARM Cortex-M microcontrollers, and embedded firmware development.
+Develop strong C programming fundamentals required for Embedded C, ARM Cortex-M microcontrollers, and embedded development.
 
 ---
 
